@@ -2,7 +2,7 @@
 
 | Parts | Name                                                                                         |
 | ----- | -------------------------------------------------------------------------------------------- |
-| MOBO  | Gigabyte GA-H61M-DS2V Rev 2.0E                                                                |
+| MOBO  | Gigabyte GA-H61M-DS2V Rev 2.0                                                                |
 | CPU   | Intel(R) Core(TM) i5-2300 (4) @ 2.80 GHz                                                     |
 | GPU   | NVIDIA GeForce GTX 760 - 2GB                                                                 |
 | PSU   | Cooler Master NEX N700                                                                       |
